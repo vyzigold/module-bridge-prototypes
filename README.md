@@ -1,1 +1,1 @@
-# tcpsocketToAmqp
+# Module bridge prototypes
